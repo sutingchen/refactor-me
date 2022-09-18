@@ -1,4 +1,4 @@
-# Refactor Me - Xero Technical Assessment
+# Refactor Me
 
 The purpose of this project is to refactor the Web APIs with improved code quality (e.g., readability, extensibility and security).
 
